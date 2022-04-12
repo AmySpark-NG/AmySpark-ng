@@ -17,7 +17,7 @@ Coding is painful, but very fun, so i'll be sticking around here ;)
 
 - [Average Discord.js-v13 bot](https://github.com/AmySpark-NG/AverageDiscordBot) - A little template on how to build your own discord bot (text tutorial included) <br> ^ Made with **Javascript**
 
-- [UnityIntegrationFunzies](https://github.com/AmySpark-NG/UnityIntegrationFunzies) - Repository with some tutorials on how to integrate Unity with different libraries and packages
+- [UnityIntegrationFunzies](https://github.com/AmySpark-NG/UnityIntegrationFunzies) - Repository with some tutorials on how to integrate Unity with different libraries and packages<br>
 ^ Using **C#** & **Unity**
 
 - [Marktonator](https://markjam.repl.co/) - Coming soon
