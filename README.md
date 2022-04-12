@@ -11,7 +11,7 @@ Coding is painful, but very fun, so i'll be sticking around here ;)
 ## > Pinned repositories 🐙
 
 <details>
-<summary>—Some of my favorite repositories of mine:)</summary>
+<summary>— Some of my favorite repositories of mine:)</summary>
 
 - [AmySparkNG's website](https://github.com/AmySpark-ng/AmySpark-ng.github.io) - My little portfolio-website made as a learning experience<br>^ Made with **HTML**, **CSS** & **Javascript** 
 
