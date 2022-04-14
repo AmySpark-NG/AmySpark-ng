@@ -1,4 +1,10 @@
-﻿<a href = "https://AmySpark-ng.github.io">
+﻿<style>
+	.repo {
+		margin-bottom: 10px;
+	}
+</style>
+
+<a href = "https://AmySpark-ng.github.io">
 	<img src = "amulogo.gif">
 	<!-- ^ Made by DevkyRD - https://twitter.com/fabiantol31 -->
 </a>
@@ -15,15 +21,15 @@ Coding is painful, but very fun, so i'll be sticking around here ;)
 <br>
 
 <a href = "https://github.com/AmySpark-ng/AmySpark-ng.github.io">
-	<img align="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=amyspark-ng&repo=amyspark-ng.github.io&theme=dracula&)">
+	<img class = "repo" align="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=amyspark-ng&repo=amyspark-ng.github.io&theme=dracula&)">
 </a>
 
 <a href = "https://github.com/AmySpark-ng/AverageDiscordBot">
-	<img align="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=amyspark-ng&repo=AverageDiscordBot&theme=dracula&)">
+	<img class = "repo" align="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=amyspark-ng&repo=AverageDiscordBot&theme=dracula&)">
 </a>
 
 <a href = "https://github.com/AmySpark-ng/UnityIntegrationFunzies">
-	<img align="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=amyspark-ng&repo=UnityINtegrationFunzies&theme=dracula&)">
+	<img class = "repo" align="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=amyspark-ng&repo=UnityINtegrationFunzies&theme=dracula&)">
 </a>
 
 <br>
