@@ -14,11 +14,19 @@ Coding is painful, but very fun, so i'll be sticking around here ;)
 <summary>— Some of my favorite repositories of mine:)</summary>
 <br>
 
-[![AmySparkNG's website](https://github-readme-stats.vercel.app/api/pin/?username=amyspark-ng&repo=amyspark-ng.github.io&theme=dracula&)](https://github.com/amyspark-ng/amyspark-ng.github.io)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+
+<!-- [![AmySparkNG's website](https://github-readme-stats.vercel.app/api/pin/?username=amyspark-ng&repo=amyspark-ng.github.io&theme=dracula&)](https://github.com/amyspark-ng/amyspark-ng.github.io)
 
 [![Average Discord.js-v13 bot](https://github-readme-stats.vercel.app/api/pin/?username=amyspark-ng&repo=AverageDiscordBot&theme=dracula&)](https://github.com/amyspark-ng/amyspark-ng.github.io)
 
-[![UnityIntegrationFunzies](https://github-readme-stats.vercel.app/api/pin/?username=amyspark-ng&repo=UnityINtegrationFunzies&theme=dracula&)](https://github.com/amyspark-ng/amyspark-ng.github.io)
+[![UnityIntegrationFunzies](https://github-readme-stats.vercel.app/api/pin/?username=amyspark-ng&repo=UnityINtegrationFunzies&theme=dracula&)](https://github.com/amyspark-ng/amyspark-ng.github.io) -->
 
 <!-- [![Marktonator](https://github-readme-stats.vercel.app/api/pin/?username=amyspark-ng&repo=Marktonator&theme=dracula&)](https://github.com/
 amyspark-ng/amyspark-ng.github.io) -->
