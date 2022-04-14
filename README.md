@@ -14,22 +14,19 @@ Coding is painful, but very fun, so i'll be sticking around here ;)
 <summary>— Some of my favorite repositories of mine:)</summary>
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href = "https://github.com/AmySpark-ng/AmySpark-ng.github.io">
+	<img align="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=amyspark-ng&repo=amyspark-ng.github.io&theme=dracula&)">
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href = "https://github.com/AmySpark-ng/AverageDiscordBot">
+	<img align="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=amyspark-ng&repo=AverageDiscordBot&theme=dracula&)">
 </a>
 
-<!-- [![AmySparkNG's website](https://github-readme-stats.vercel.app/api/pin/?username=amyspark-ng&repo=amyspark-ng.github.io&theme=dracula&)](https://github.com/amyspark-ng/amyspark-ng.github.io)
+<a href = "https://github.com/AmySpark-ng/UnityIntegrationFunzies">
+	<img align="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=amyspark-ng&repo=UnityINtegrationFunzies&theme=dracula&)">
+</a>
 
-[![Average Discord.js-v13 bot](https://github-readme-stats.vercel.app/api/pin/?username=amyspark-ng&repo=AverageDiscordBot&theme=dracula&)](https://github.com/amyspark-ng/amyspark-ng.github.io)
-
-[![UnityIntegrationFunzies](https://github-readme-stats.vercel.app/api/pin/?username=amyspark-ng&repo=UnityINtegrationFunzies&theme=dracula&)](https://github.com/amyspark-ng/amyspark-ng.github.io) -->
-
-<!-- [![Marktonator](https://github-readme-stats.vercel.app/api/pin/?username=amyspark-ng&repo=Marktonator&theme=dracula&)](https://github.com/
-amyspark-ng/amyspark-ng.github.io) -->
+<br>
 
 - [Marktonator](https://markjam.repl.co/) - Coming soon
 
@@ -37,15 +34,10 @@ amyspark-ng/amyspark-ng.github.io) -->
 
 ## > Stats 🖥️
 
-<details>
-	<summary>— Github Stats:</summary>
-
 <p>
 	<img src = "https://github-readme-stats.vercel.app/api?username=amySpark-ng&show_icons=true&theme=radical&count_private=true&include_all_commits=true&">
 	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amyspark-ng&layout=compact&card_width=445&theme=radical&hide=shaderlab,hlsl">
 </p>
-
-</details>
 
 ##
 
