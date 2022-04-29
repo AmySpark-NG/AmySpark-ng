@@ -35,8 +35,8 @@ Coding is painful, but very fun, so i'll be sticking around here ;)
 ## > Stats 🖥️
 
 <p>
-	<img src = "https://github-readme-stats.vercel.app/api?username=amySpark-ng&show_icons=true&theme=radical&count_private=true&include_all_commits=true&">
-	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amyspark-ng&layout=compact&card_width=445&theme=radical&hide=shaderlab,hlsl">
+	<img src = "https://github-readme-stats.vercel.app/api?username=amySpark-ng&show_icons=true&theme=radical&count_private=true&include_all_commits=true&height=192">
+	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amyspark-ng&layout=compact&card_width=445&theme=radical&hide=shaderlab,hlsl&height=192">
 </p>
 
 <!-- ^ These by anuraghazra on github -->
