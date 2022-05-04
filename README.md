@@ -20,7 +20,6 @@ You can contact me on newgrounds! Where i will 99% surely reply!
 — https://www.newgrounds.com/pm/send/amychan-a
 
 <br>
-<br>
 
 >Im just a girl from the middle of nowhere ☁️
 <!-- Girls and boys - underscores -->
