@@ -1,47 +1,19 @@
-﻿<a href = "https://AmySpark-ng.github.io">
-	<img src = "amulogo.gif">
-	<!-- ^ Made by DevkyRD - https://twitter.com/fabiantol31 -->
-</a>
+# AmySpark ✨
 
 ## > About me ☂️
-heyo! im Amy, using GitHub to share my projects with other people and because open source is very cool
+heyo! im Amy, random girl that codes and makes games (sometimes)
+Asides from that, you can also find my terrific code repositories! So yeah! You're unlucky
 
-Coding is painful, but very fun, so i'll be sticking around here ;)
+## > Coding stuff 💻
+WIP COMING SOON! (not really)
+AmySpark-ng.github.io/coding.html (doesn't exist)
 
-## > Pinned repositories 🐙
+## > Contact ✉️
+You can contact me on newgrounds! Where i will 99% surely reply!
 
-<details>
-<summary>— Some of my favorite repositories of mine:)</summary>
-<br>
+— https://www.newgrounds.com/pm/send/amychan-a
 
-<a href = "https://github.com/AmySpark-ng/AmySpark-ng.github.io">
-	<img style="margin-bottom: 10px" align="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=amyspark-ng&repo=amyspark-ng.github.io&theme=dracula&)">
-</a>
-
-<a href = "https://github.com/AmySpark-ng/AverageDiscordBot">
-	<img style="margin-bottom: 10px" align="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=amyspark-ng&repo=AverageDiscordBot&theme=dracula&)">
-</a>
-
-<a href = "https://github.com/AmySpark-ng/UnityIntegrationFunzies">
-	<img style="margin-bottom: 10px" align="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=amyspark-ng&repo=UnityINtegrationFunzies&theme=dracula&)">
-</a>
-
-<a href = "https://github.com/AmySpark-ng/Marktonator">
-	<img style="margin-bottom: 10px" align="center" src = "https://github-readme-stats.vercel.app/api/pin/?username=amyspark-ng&repo=Marktonator&theme=dracula&)">
-</a>
-
-</details>
-
-## > Stats 🖥️
-
-<p>
-	<img src = "https://github-readme-stats.vercel.app/api?username=amySpark-ng&show_icons=true&theme=radical&count_private=true&include_all_commits=true&height=192">
-	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amyspark-ng&layout=compact&card_width=445&theme=radical&hide=shaderlab,hlsl&height=192">
-</p>
-
-<!-- ^ These by anuraghazra on github -->
-
-##
+<hr>
 
 — Im just a girl from the middle of nowhere
 <!-- Girls and boys - underscores -->
