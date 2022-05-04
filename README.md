@@ -5,8 +5,7 @@
 
 ## > About me ☂️
 
-heyo! im Amy, random girl that codes and makes games (sometimes)
-Asides from that, you can also find my terrific code repositories! So yeah! You're unlucky
+heyo! im Amy, random girl that codes and makes games (sometimes) - Asides from that, you can also find my terrific code repositories! So yeah! You're unlucky
 
 ## > Coding stuff 💻
 
