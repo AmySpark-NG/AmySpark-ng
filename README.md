@@ -10,7 +10,7 @@ Asides from that, you can also find my terrific code repositories! So yeah! You'
 
 ## > Coding stuff 💻
 
-WIP COMING SOON! (not really)
+WIP COMING SOON! (not really) <br>
 AmySpark-ng.github.io/coding.html (doesn't exist)
 
 ## > Contact ✉️
@@ -21,5 +21,5 @@ You can contact me on newgrounds! Where i will 99% surely reply!
 
 ##
 
-— Im just a girl from the middle of nowhere
+>Im just a girl from the middle of nowhere ☁️
 <!-- Girls and boys - underscores -->
