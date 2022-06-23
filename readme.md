@@ -1,17 +1,31 @@
-﻿<a href = "https://amySpark-ng.github.io">
-	<img src = "amulogo.gif">
-</a>
+# — AmySparkNG - ✨
 
-## > Introduction ☂️
-heyo! im Amy, using GitHub to share my projects with other people and because open source is very cool
+Hello, im Amy! random girl who codes, makes games and learns new stuff almost every day, on github because open source it's cool as hell :sunglasses:
 
-Coding is painful, but very fun, so i'll be hanging around here ;)
+## >  Some things about me - ☁️
 
-## > Stats 🖥️
+- I use **`Javascript 💻`** as my main language <br>
+- **`Kaboom 💥`** is the JS framework that i use for makin' the games! <br>
+- Currently trying to learn how to make `Music ♫` <br>
+- HUGE **`NEWGROUNDS 🆖`** LOVER ❤️ <br>
+^ [amyspark-ng.newgrounds.com](amyspark-ng.newgrounds.com)
 
-<p>
-	<img src = "https://github-readme-stats.vercel.app/api?username=amySpark-ng&show_icons=true&theme=radical">
-</p>
+<div style="text-align:center;">
+    <a href="https://amyspark-ng.github.io" target="_blank">
+    <img style="width: 140px" src="https://github.githubassets.com/images/mona-loading-dark.gif">
+    </a>
+</div>
 
-— Im just a girl from the middle of nowhere ;
-<!-- Girls and boys - underscores -->
+## >  Some stats - 📊
+
+<div style="text-align: center;">
+    <details>
+        <summary>click me!!1!</summary>
+        <br>
+            <p>
+            <img src="https://github-readme-stats.vercel.app/api?username=amyspark-ng&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amyspark-ng&hide_title=true&hide_border=true&hide=c,shaderlab,hlsl&%2B%2B&layout=compact&theme=radical&card_width=445">
+            </p>
+        <p style="text-align:center;">ohhi</p>
+    </details>
+</div>
