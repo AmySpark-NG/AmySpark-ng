@@ -10,15 +10,15 @@ Hello, im Amy! random girl who codes, makes games and learns new stuff almost ev
 - HUGE **`NEWGROUNDS 🆖`** LOVER ❤️ <br>
 ^ [amyspark-ng.newgrounds.com](amyspark-ng.newgrounds.com)
 
-<div style="text-align:center;">
+<div align="center"">
     <a href="https://amyspark-ng.github.io" target="_blank">
-    <img style="width: 140px" src="https://github.githubassets.com/images/mona-loading-dark.gif">
+    <img width="140px" height="140px" src="https://github.githubassets.com/images/mona-loading-dark.gif">
     </a>
 </div>
 
 ## >  Some stats - 📊
 
-<div style="text-align: center;">
+<div align="center">
     <details>
         <summary>click me!!1!</summary>
         <br>
