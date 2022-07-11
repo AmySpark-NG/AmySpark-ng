@@ -1,12 +1,9 @@
-# — AmySparkNG - ✨
-
-Hello, im Amy! random girl who codes, makes games and learns new stuff almost every day, on github because open source it's cool as hell :sunglasses:
-
 ## >  Some things about me - ☁️
 
 - I use **`Javascript 💻`** as my main language <br>
 - **`Kaboom 💥`** is the JS framework that i use for makin' the games! <br>
 - Currently trying to learn how to make `Music ♫` <br>
+- I started coding for fun now i'm paying for the c o n s e q u e n c e s  o f  m y  a c t i o n s . . .
 - HUGE **`NEWGROUNDS 🆖`** LOVER ❤️ <br>
 ^ [amyspark-ng.newgrounds.com](amyspark-ng.newgrounds.com)
 
